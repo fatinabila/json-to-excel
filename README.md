@@ -2,6 +2,12 @@
 
 A fast, simple React application that converts JSON data into Excel files with customizable column selection. No bloat, no complexity - just results.
 
+🔗 **Live Demo**: [https://json-to-excel-converter.netlify.app/](https://json-to-excel-converter.netlify.app/)
+
+## Screenshot
+
+![JSON to Excel Converter Screenshot](screenshot.png)
+
 ## Features
 
 - 📤 **Multiple Input Methods**: Upload JSON files or paste JSON text directly
